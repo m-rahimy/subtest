@@ -1,0 +1,9 @@
+[submodule "MaterialDesignLibrary"]
+	path = MaterialDesignLibrary
+	url = ./MaterialDesignLibrary
+[submodule "MaterialShadows"]
+	path = MaterialShadows
+	url = ./MaterialShadows/
+[submodule "TapTargetView"]
+	path = TapTargetView
+	url = ./TapTargetView/
